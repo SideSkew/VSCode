@@ -1,0 +1,13 @@
+## Extensions
+- C/C++
+    - C/C++ Extension Pack
+    - C/C++ Themes
+    - CMake
+    - CMake Tools
+- Code Runner
+- Themes
+    - Material Theme
+    - Material Theme Icons
+    - indent-rainbow
+- SSH
+    - Remote - SSH
